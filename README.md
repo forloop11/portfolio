@@ -57,3 +57,6 @@ DataCamp provides assessments for a range of topics within data science, includi
 | Data Management in SQL (PostgresSQL)      | 95%           |
 | Data Analysis in SQL (PostgresSQL)        | 99%           |
 
+## Dashboard Example
+
+![Power BI Example](resources/power_bi/power_bi_dashboard_example_01.png)
