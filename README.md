@@ -1,9 +1,6 @@
 # Portfolio of Todd Takala
 
-## LinkedIn
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="takala" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/takala?trk=profile-badge">Todd Takala</a></div>
-              
+## LinkedIn          
 
 [https://www.linkedin.com/in/takala/](https://www.linkedin.com/in/takala/)
 
@@ -16,6 +13,11 @@
 * [A Visual History of Nobel Prize Winners](https://app.datacamp.com/workspace/w/ef91c9a9-4d2a-4b2e-864e-80e664591006)
 * [Dr. Semmelweis and the Discovery of Handwashing](https://app.datacamp.com/workspace/w/b946c928-c8f0-460b-9928-e752829ea351)
 * [Exploring the Bitcoin Cryptocurrency Market](https://app.datacamp.com/workspace/w/cce07406-8f83-4ccb-a49c-5f014580b6a8)
+
+
+## Stack Exchange - Engineering
+
+* [Stack Exchange - Engineering Profile](https://engineering.stackexchange.com/users/13416/todd-takala)
 
 ## DataCamp
 
