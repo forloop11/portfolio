@@ -1,8 +1,23 @@
 # Portfolio of Todd Takala
 
+## LinkedIn
+
+[https://www.linkedin.com/in/takala/](https://www.linkedin.com/in/takala/)
+
+
+
 ## DataCamp
 
+### Personal Profile
+
+[https://www.datacamp.com/portfolio/takala](https://www.datacamp.com/portfolio/takala)
+
+
+
 ### Skill Assessments
+
+DataCamp provides assessments for a range of topics within data science, including Python, R, SQL, machine learning, statistics, and more.
+
 
 #### Theory
 
@@ -29,3 +44,11 @@
 ##### Statistics Fundamentals with Python - Percentile - 95%
 
 ![Data Visualization with Python](resources/python/data_visualization_with_python.png)
+
+##### Data Manipulation with Python - Percentile - 95%
+
+![Data Manipulation with Python](resources/python/data_manipulation_with_python.png)
+
+##### Importing and Cleaning Data with Python - Percentile - 99%
+
+![Importing and Cleaning Data with Python](resources/python/importing_and_cleaning_data_with_python.png)
