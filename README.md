@@ -33,7 +33,7 @@ DataCamp provides assessments for a range of topics within data science, includi
 | Assessment                                | Percentile    |
 | ---                                       | ---:          |
 | Python Programming                        | 98%           |
-| Machine Learning Findamentals in Python   | 99%           |
+| Machine Learning Fundamentals in Python   | 99%           |
 | Statistics Fundamentals with Python       | 97%           |
 | Data Visualization with Python            | 95%           |
 | Data Manipulation with Python             | 95%           |
@@ -44,7 +44,7 @@ DataCamp provides assessments for a range of topics within data science, includi
 | Assessment                                | Percentile    |
 | ---                                       | ---:          |
 | R Programming                             | 94%           |
-| Machine Learning Findamentals in R        | 98%           |
+| Machine Learning Fundamentals in R        | 98%           |
 | Statistics Fundamentals with R            | 97%           |
 | Data Visualization with R                 | 87%           |
 | Data Manipulation with R                  | 98%           |
