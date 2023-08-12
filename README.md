@@ -32,7 +32,6 @@ DataCamp provides assessments for a range of topics within data science, includi
 
 | Assessment                                | Percentile    |
 | ---                                       | ---:          |
-| Understanding and Interpreting Data       | 98%           |
 | Python Programming                        | 98%           |
 | Machine Learning Findamentals in Python   | 99%           |
 | Statistics Fundamentals with Python       | 97%           |
