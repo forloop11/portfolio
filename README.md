@@ -13,7 +13,7 @@
 * [https://www.datacamp.com/portfolio/takala](https://www.datacamp.com/portfolio/takala)
 * [Assessment Badges](assessment-badges.md)
 
-
+![](resources/datacamp/profile.png)
 
 ### Skill Assessments
 
