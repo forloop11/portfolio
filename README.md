@@ -61,7 +61,7 @@ DataCamp provides assessments for a range of topics within data science, includi
 | R Programming                             | 94%           |
 | Machine Learning Fundamentals in R        | 98%           |
 | Statistics Fundamentals with R            | 97%           |
-| Data Visualization with R                 | 87%           |
+| Data Visualization with R                 | 96%           |
 | Data Manipulation with R                  | 98%           |
 | Importing and Cleaning Data with R        | 99%           |
 
