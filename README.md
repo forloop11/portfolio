@@ -2,11 +2,11 @@
 
 ## My Certifications
 
-[My Certifications](https://github.com/toddtakala/portfolio/tree/main/certs)
+* [My Certifications](https://github.com/toddtakala/portfolio/tree/main/certs)
 
 ## LinkedIn          
 
-[https://www.linkedin.com/in/takala/](https://www.linkedin.com/in/takala/)
+* [https://www.linkedin.com/in/takala/](https://www.linkedin.com/in/takala/)
 
 ## Projects
 
