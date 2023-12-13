@@ -2,7 +2,7 @@
 
 ## My Certifications
 
-[Certifications](https://github.com/toddtakala/portfolio/tree/main/certs)
+[My Certifications](https://github.com/toddtakala/portfolio/tree/main/certs)
 
 ## LinkedIn          
 
@@ -29,6 +29,8 @@
 
 * [https://www.datacamp.com/portfolio/takala](https://www.datacamp.com/portfolio/takala)
 * [Assessment Badges](assessment-badges.md)
+
+![](resources/datacamp/profile.png)
 
 ![](resources/datacamp/assessed-domains.png)
 
