@@ -41,33 +41,39 @@ DataCamp provides assessments for a range of topics within data science, includi
 
 | Assessment                                | Percentile    |
 | ---                                       | ---:          |
-| Understanding and Interpreting Data       | 98%           |
+| AI Fundamentals                           | 89th          |
+| Data Storytelling                         | 95th          |
+| Data Visualization Theory                 | 99th          |
+| Statistical Experimentation Theory        | 99th          |
+| Understanding and Interpreting Data       | 98th          |
 
 #### Python
 
 | Assessment                                | Percentile    |
 | ---                                       | ---:          |
-| Python Programming			            | 98%           |
-| Machine Learning Fundamentals in Python   | 99%           |
-| Statistics Fundamentals with Python       | 97%           |
-| Data Visualization with Python            | 95%           |
-| Data Manipulation with Python             | 95%           |
-| Importing and Cleaning Data with Python   | 99%           |
+| Data Manipulation with Python             | 95th          |
+| Data Visualization with Python            | 95th          |
+| Importing and Cleaning Data with Python   | 99th          |
+| Machine Learning Fundamentals in Python   | 99th          |
+| Programming for Data Engineering          | 99th          |
+| Python Programming			            | 98th          |
+| Statistics Fundamentals with Python       | 97th          |
 
 #### R
 
 | Assessment                                | Percentile    |
 | ---                                       | ---:          |
-| R Programming                             | 94%           |
-| Machine Learning Fundamentals in R        | 98%           |
-| Statistics Fundamentals with R            | 97%           |
-| Data Visualization with R                 | 96%           |
-| Data Manipulation with R                  | 98%           |
-| Importing and Cleaning Data with R        | 99%           |
+| Data Manipulation with R                  | 98th          |
+| Data Visualization with R                 | 96th          |
+| Importing and Cleaning Data with R        | 96th          |
+| Machine Learning Fundamentals in R        | 98th          |
+| R Programming                             | 98th          |
+| Statistics Fundamentals with R            | 97th          |
+
 
 ##### SQL
 
 | Assessment                                | Percentile    |
 | ---                                       | ---:          |
-| Data Management in SQL (PostgresSQL)      | 95%           |
-| Data Analysis in SQL (PostgresSQL)        | 99%           |
+| Data Management in SQL (PostgresSQL)      | 95th          |
+| Data Analysis in SQL (PostgresSQL)        | 99th          |
