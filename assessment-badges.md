@@ -15,6 +15,22 @@ DataCamp provides assessments for a range of topics within data science, includi
 
 #### Theory
 
+##### AI Fundamentals - Percentile: 89%
+
+![Data Storytelling](resources/theory/ai_fundamentals.png)
+
+##### Data Storytelling - Percentile: 95%
+
+![Data Storytelling](resources/theory/data_storytelling.png)
+
+##### Statistical Experimentation Theory - Percentile: 99%
+
+![Data Storytelling](resources/theory/statistical_experimental_theory.png)
+
+##### Data Visualization Theory - Percentile: 99%
+
+![Data Storytelling](resources/theory/data_visualization_theory.png)
+
 ##### Understanding and Interpreting Data - Percentile: 98%
 
 ![Understanding and Interpreting Data](resources/theory/understanding_and_interpreting_data.png)
@@ -22,36 +38,51 @@ DataCamp provides assessments for a range of topics within data science, includi
 
 #### Python
 
-##### Python Programming - Percentile - 98%
+##### Data Manipulation with Python - Percentile - 95%
 
-![Python Programming](resources/python/python_programming.png)
-
-##### Machine Learning Findamentals in Python - Percentile - 99%
-
-![Machine Learning Findamentals in Python](resources/python/machine_learning_fundamentals_in_python.png)
-
-##### Statistics Fundamentals with Python - Percentile - 97%
-
-![Statistics Fundamentals with Python](resources/python/statistics_fundamentals_with_python.png)
+![Data Manipulation with Python](resources/python/data_manipulation_with_python.png)
 
 ##### Data Visualization with Python - Percentile - 95%
 
 ![Data Visualization with Python](resources/python/data_visualization_with_python.png)
 
-##### Data Manipulation with Python - Percentile - 95%
-
-![Data Manipulation with Python](resources/python/data_manipulation_with_python.png)
-
 ##### Importing and Cleaning Data with Python - Percentile - 99%
 
 ![Importing and Cleaning Data with Python](resources/python/importing_and_cleaning_data_with_python.png)
 
+##### Machine Learning Findamentals in Python - Percentile - 99%
+
+![Machine Learning Findamentals in Python](resources/python/machine_learning_fundamentals_in_python.png)
+
+##### Programming for Data Engineering - Percentile - 99%
+
+![Python Programming](resources/python/programming_for_data_engineering.png)
+
+##### Python Programming - Percentile - 98%
+
+![Python Programming](resources/python/python_programming.png)
+
+##### Statistics Fundamentals with Python - Percentile - 97%
+
+![Statistics Fundamentals with Python](resources/python/statistics_fundamentals_with_python.png)
 
 
 
 #### R
 
-##### R Programming - Percentile - 94%
+##### Data Manipulation with R - Percentile - 98%
+
+![Data Manipulation with R](resources/r/data_manipulation_with_r.png)
+
+##### Data Visualization with R - Percentile - 96%
+
+![Data Visualization with R](resources/r/data_visualization_with_r.png)
+
+##### Importing and Cleaning Data with R - Percentile - 99%
+
+![Importing and Cleaning Data with R](resources/r/importing_and_cleaning_data_with_r.png)
+
+##### R Programming - Percentile - 98%
 
 ![R Programming](resources/r/r_programming.png)
 
@@ -62,20 +93,6 @@ DataCamp provides assessments for a range of topics within data science, includi
 ##### Statistics Fundamentals with R - Percentile - 97%
 
 ![Statistics Fundamentals with R](resources/r/statistics_fundamentals_with_r.png)
-
-##### Data Visualization with R - Percentile - 87%
-
-![Data Visualization with R](resources/r/data_visualization_with_r.png)
-
-##### Data Manipulation with R - Percentile - 98%
-
-![Data Manipulation with R](resources/r/data_manipulation_with_r.png)
-
-##### Importing and Cleaning Data with R - Percentile - 99%
-
-![Importing and Cleaning Data with R](resources/r/importing_and_cleaning_data_with_r.png)
-
-
 
 
 #### SQL
