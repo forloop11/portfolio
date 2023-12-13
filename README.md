@@ -1,5 +1,7 @@
 # Portfolio of Todd Takala
 
+## My Certifications
+
 [Certifications](https://github.com/toddtakala/portfolio/tree/main/certs)
 
 ## LinkedIn          
