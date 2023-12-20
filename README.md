@@ -18,7 +18,6 @@
 * [Dr. Semmelweis and the Discovery of Handwashing](https://app.datacamp.com/workspace/w/b946c928-c8f0-460b-9928-e752829ea351)
 * [Exploring the Bitcoin Cryptocurrency Market](https://app.datacamp.com/workspace/w/cce07406-8f83-4ccb-a49c-5f014580b6a8)
 
-
 ## Stack Exchange - Engineering
 
 * [Stack Exchange - Engineering Profile](https://engineering.stackexchange.com/users/13416/todd-takala)
@@ -30,14 +29,13 @@
 * [https://www.datacamp.com/portfolio/takala](https://www.datacamp.com/portfolio/takala)
 * [Assessment Badges](assessment-badges.md)
 
-![](resources/datacamp/profile.png)
-
 ![](resources/datacamp/assessed-domains.png)
+
+![](resources/datacamp/profile.png)
 
 ### Skill Assessments
 
 DataCamp provides assessments for a range of topics within data science, including Python, R, SQL, machine learning, statistics, and more.
-
 
 ### Summary
 
