@@ -10,6 +10,7 @@
 
 ## Projects
 
+* [Predicting High Traffic for a Website](https://app.datacamp.com/workspace/w/ccde9b8c-ca12-433f-9e77-773cbc879ad2)
 * [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/workspace/w/74364665-47ec-4448-a1d6-ece7d0d906aa)
 * [Predicting Credit Card Approvals](https://app.datacamp.com/workspace/w/3cdac102-7205-4f80-bca6-914d31f21f23)
 * [The GitHub History of the Scala Language](https://app.datacamp.com/workspace/w/1e012d05-2a5d-4e43-b098-d8980289d9a5)
