@@ -8,8 +8,16 @@
 
 * [https://www.linkedin.com/in/takala/](https://www.linkedin.com/in/takala/)
 
+## Stack Exchange - Engineering
+
+* [Stack Exchange - Engineering Profile](https://engineering.stackexchange.com/users/13416/todd-takala)
+
 ## Projects
 
+* [Mobile Games AB Testing with Cookie Cats](resources/projects/Mobile_Games_AB_Testing_with_Cookie_Cats/notebook.ipynb)
+* [Exploring NYC Public School Test Result Scores](https://app.datacamp.com/workspace/w/909d8bd1-53d3-4111-ac6b-d034df3488e7/edit)
+* [Name Game: Gender Prediction using Sound](https://app.datacamp.com/workspace/w/c7de08d4-6848-4b01-97fc-1161fcb1a29b/edit)
+* [Cleaning Bank Marketing Campaign Data](https://app.datacamp.com/workspace/w/ad74b952-aebc-41e0-a56d-b4ea1ea411fe/edit)
 * [Predicting High Traffic for a Website](https://app.datacamp.com/workspace/w/ccde9b8c-ca12-433f-9e77-773cbc879ad2)
 * [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/workspace/w/74364665-47ec-4448-a1d6-ece7d0d906aa)
 * [Predicting Credit Card Approvals](https://app.datacamp.com/workspace/w/3cdac102-7205-4f80-bca6-914d31f21f23)
@@ -19,9 +27,6 @@
 * [Dr. Semmelweis and the Discovery of Handwashing](https://app.datacamp.com/workspace/w/b946c928-c8f0-460b-9928-e752829ea351)
 * [Exploring the Bitcoin Cryptocurrency Market](https://app.datacamp.com/workspace/w/cce07406-8f83-4ccb-a49c-5f014580b6a8)
 
-## Stack Exchange - Engineering
-
-* [Stack Exchange - Engineering Profile](https://engineering.stackexchange.com/users/13416/todd-takala)
 
 ## DataCamp
 
