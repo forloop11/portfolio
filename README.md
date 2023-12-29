@@ -44,7 +44,7 @@ DataCamp provides assessments for a range of topics within data science, includi
 
 | Assessment                                | Percentile    |
 | ---                                       | ---:          |
-| AI Fundamentals                           | 89th          |
+| AI Fundamentals                           | 99th          |
 | Data Storytelling                         | 95th          |
 | Data Visualization Theory                 | 99th          |
 | Statistical Experimentation Theory        | 99th          |
