@@ -2,15 +2,14 @@
 
 ## My Certifications
 
-* [My Certifications](https://github.com/toddtakala/portfolio/tree/main/certs)
+* [Certifications](https://github.com/toddtakala/portfolio/tree/main/certifications) 
+* [Certificates of Completion](https://github.com/toddtakala/portfolio/tree/main/certs) 
 
-## LinkedIn          
+## Profiles
 
 * [https://www.linkedin.com/in/takala/](https://www.linkedin.com/in/takala/)
-
-## Stack Exchange - Engineering
-
 * [Stack Exchange - Engineering Profile](https://engineering.stackexchange.com/users/13416/todd-takala)
+* [DataCamp Profile](https://www.datacamp.com/portfolio/takala)
 
 ## Projects
 

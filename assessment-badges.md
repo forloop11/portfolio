@@ -4,9 +4,7 @@
 
 ### Personal Profile
 
-[https://www.datacamp.com/portfolio/takala](https://www.datacamp.com/portfolio/takala)
-
-
+* [https://www.datacamp.com/portfolio/takala](https://www.datacamp.com/portfolio/takala)
 
 ### Skill Assessment Badges
 
