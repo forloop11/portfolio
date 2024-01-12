@@ -103,10 +103,11 @@ DataCamp provides assessments for a range of topics within data science, includi
 
 #### SQL
 
+##### Data Analysis in SQL (PostgresSQL) - Percentile - 99th
+
+![Data Analysis in SQL (PostgresSQL)](resources/posgressql/data_analysis_in_sql_postgressql.png)
+
 ##### Data Management in SQL (PostgresSQL) - Percentile - 95th
 
 ![Data Management in SQL (PostgresSQL)](resources/posgressql/data_management_in_sql_postgressql.png)
 
-##### Data Analysis in SQL (PostgresSQL) - Percentile - 99th
-
-![Data Analysis in SQL (PostgresSQL)](resources/posgressql/data_analysis_in_sql_postgressql.png)
