@@ -7,7 +7,7 @@
 
 ## Profiles
 
-* [https://www.linkedin.com/in/takala/](https://www.linkedin.com/in/takala/)
+* [LinkedIn](https://www.linkedin.com/in/takala/)
 * [Stack Exchange - Engineering Profile](https://engineering.stackexchange.com/users/13416/todd-takala)
 * [DataCamp Profile](https://www.datacamp.com/portfolio/takala)
 
@@ -31,7 +31,7 @@
 
 ### Personal Profile
 
-* [https://www.datacamp.com/portfolio/takala](https://www.datacamp.com/portfolio/takala)
+* [DataCamp Portfolio](https://www.datacamp.com/portfolio/takala)
 * [Assessment Badges](assessment-badges.md)
 
 ![](resources/datacamp/assessed-domains.png)
@@ -44,7 +44,36 @@ DataCamp provides assessments for a range of topics within data science, includi
 
 ### Summary
 
-#### Theory
+#### Python
+
+| Assessment                                | Percentile    |
+| ---                                       | ---:          |
+| Data Manipulation with Python             | 95th          |
+| Data Visualization with Python            | 95th          |
+| Importing and Cleaning Data with Python   | 99th          |
+| Machine Learning Fundamentals in Python   | 99th          |
+| Programming for Data Engineering          | 99th          |
+| Python Programming			            | 98th          |
+| Statistics Fundamentals with Python       | 97th          |
+
+#### R
+
+| Assessment                                | Percentile    |
+| ---                                       | ---:          |
+| Data Manipulation with R                  | 98th          |
+| Data Visualization with R                 | 96th          |
+| Importing and Cleaning Data with R        | 96th          |
+| Machine Learning Fundamentals in R        | 98th          |
+| R Programming                             | 98th          |
+| Statistics Fundamentals with R            | 97th          |
+
+
+##### SQL
+
+| Assessment                                | Percentile    |
+| ---                                       | ---:          |
+| Data Analysis in SQL (PostgresSQL)        | 99th          |
+| Data Management in SQL (PostgresSQL)      | 95th          |
 
 | Assessment                                | Percentile    |
 | ---                                       | ---:          |
