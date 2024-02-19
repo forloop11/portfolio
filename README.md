@@ -35,7 +35,6 @@ Discussed Empire's reliability engineering program which involves a focus on "fi
 
 ## Projects
 
-* []()
 * [A Visual History of Nobel Prize Winners](https://app.datacamp.com/workspace/w/ef91c9a9-4d2a-4b2e-864e-80e664591006)
 * [Cleaning Bank Marketing Campaign Data](https://app.datacamp.com/workspace/w/ad74b952-aebc-41e0-a56d-b4ea1ea411fe/)
 * [Dr. Semmelweis and the Discovery of Handwashing](https://app.datacamp.com/workspace/w/b946c928-c8f0-460b-9928-e752829ea351)
