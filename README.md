@@ -7,8 +7,7 @@
 
 ## Profiles
 
-* [LinkedIn](https://www.linkedin.com/in/takala/)
-* [Stack Exchange - Engineering Profile](https://engineering.stackexchange.com/users/13416/todd-takala)
+* [LinkedIn](https://www.linkedin.com/
 * [DataCamp Profile](https://www.datacamp.com/portfolio/takala)
 
 ## Awards and Honors
