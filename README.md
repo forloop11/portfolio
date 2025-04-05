@@ -7,7 +7,7 @@
 
 ## Profiles
 
-* [LinkedIn](https://www.linkedin.com/
+* [LinkedIn](https://www.linkedin.com/)
 * [DataCamp Profile](https://www.datacamp.com/portfolio/takala)
 
 ## Awards and Honors
