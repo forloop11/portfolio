@@ -1,4 +1,4 @@
-# Portfolio of Todd Takala
+# Todd Takala's Portfolio
 
 ## My Certifications
 
