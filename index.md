@@ -2,122 +2,143 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Accomplished Lead Data Scientist with extensive experience in machine learning and reliability engineering. Proven history of leading high-impact data science projects from ideation to deployment, generating over $1.2 billion in business value. Specializes in steering data-driven strategies and managing complete project lifecycles, aligning with iterative principles to address complex business challenges and facilitate cost reduction. Excels in both technical leadership and mentoring, translating complex technical findings to non-technical stakeholders to ensure successful project outcomes.
 
-[Link to another page](./another-page.html).
+## My Certifications
 
-There should be whitespace between paragraphs.
+* [Certifications](https://github.com/toddtakala/portfolio/tree/main/certifications) 
+* [Certificates of Completion](https://github.com/toddtakala/portfolio/tree/main/certs) 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Profiles
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+* [LinkedIn](https://www.linkedin.com/in/toddtakala)
+* [DataCamp Profile](https://www.datacamp.com/portfolio/takala)
 
 
-### Definition lists can be used with HTML syntax.
+## Tech Projects
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+* [A Visual History of Nobel Prize Winners](https://app.datacamp.com/workspace/w/ef91c9a9-4d2a-4b2e-864e-80e664591006)
+* [Cleaning Bank Marketing Campaign Data](https://app.datacamp.com/workspace/w/ad74b952-aebc-41e0-a56d-b4ea1ea411fe/)
+* [Dr. Semmelweis and the Discovery of Handwashing](https://app.datacamp.com/workspace/w/b946c928-c8f0-460b-9928-e752829ea351)
+* [Exploring NYC Public School Test Result Scores](https://app.datacamp.com/workspace/w/909d8bd1-53d3-4111-ac6b-d034df3488e7/)
+* [Exploring the Bitcoin Cryptocurrency Market](https://app.datacamp.com/workspace/w/cce07406-8f83-4ccb-a49c-5f014580b6a8)
+* [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/workspace/w/74364665-47ec-4448-a1d6-ece7d0d906aa)
+* [Mobile Games AB Testing with Cookie Cats](resources/projects/Mobile_Games_AB_Testing_with_Cookie_Cats/notebook.ipynb)
+* [Name Game: Gender Prediction using Sound](https://app.datacamp.com/workspace/w/c7de08d4-6848-4b01-97fc-1161fcb1a29b/)
+* [Predicting Credit Card Approvals](https://app.datacamp.com/workspace/w/3cdac102-7205-4f80-bca6-914d31f21f23)
+* [Predicting High Traffic for a Website](https://app.datacamp.com/workspace/w/ccde9b8c-ca12-433f-9e77-773cbc879ad2)
+* [The Android App Market on Google Play](https://app.datacamp.com/workspace/w/1124fc03-254b-4953-9a0f-edb01baeaa10)
+* [The GitHub History of the Scala Language](https://app.datacamp.com/workspace/w/1e012d05-2a5d-4e43-b098-d8980289d9a5)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+## Awards and Honors
+
+### Champion - Amazon Machine Learning Competition
+#### Issued by Amazon Machine Learning University · Sep 2022
+
+Twice winner of machine learning competitions at Amazon for Regression and Binary Classification data science competitions.
+
+### Guest Speaker: Data Science Applications for Fleet Reliability
+#### Issued by Caterpillar Inc. · May 2021
+
+Shared machine learning methodology to predict diesel engine life in large off-highway trucks. Life was extended by 33%.
+
+### Guest Speaker: Truck Rebuild Program
+#### Issued by Caterpillar Inc. · Apr 2019
+
+Spoke at Caterpillar large mining truck conference to discuss Empire-Cat’s truck rebuild program. Empire will completely rebuild a mining haul trucks at 60% of the cost of a new machine and operates with 2 to 4% more physical availability above trucks from the factory.
+
+### Guest Speaker: Product Problem Management
+#### Issued by Caterpillar Inc. · Sep 2015
+
+Discussed Empire's reliability engineering program which involves a focus on "find it" using RCA, critical component life analysis, inspections, telematics, and condition monitoring, followed by identifying key factors using machine learning, and then implementing "fix it" solutions through interim corrective actions and working with Caterpillar's FMEA process for permanent solutions.
+
+## DataCamp
+
+### Personal Profile
+
+* [DataCamp Portfolio](https://www.datacamp.com/portfolio/takala)
+* [Assessment Badges](assessment-badges.md)
+
+![](resources/datacamp/assessed-domains.png)
+
+![](resources/datacamp/profile.png)
+
+### Skill Assessments
+
+DataCamp provides assessments for a range of topics within data science, including Python, R, SQL, machine learning, statistics, and more.
+
+### Summary
+
+#### Python
+
+| Assessment                                | Percentile    |
+| ---                                       | ---:          |
+| Data Manipulation with Python             | 95th          |
+| Data Visualization with Python            | 95th          |
+| Importing and Cleaning Data with Python   | 99th          |
+| Machine Learning Fundamentals in Python   | 99th          |
+| Programming for Data Engineering          | 99th          |
+| Python Programming			            | 98th          |
+| Statistics Fundamentals with Python       | 97th          |
+
+#### R
+
+| Assessment                                | Percentile    |
+| ---                                       | ---:          |
+| Data Manipulation with R                  | 98th          |
+| Data Visualization with R                 | 96th          |
+| Importing and Cleaning Data with R        | 96th          |
+| Machine Learning Fundamentals in R        | 98th          |
+| R Programming                             | 98th          |
+| Statistics Fundamentals with R            | 97th          |
+
+
+##### SQL
+
+| Assessment                                | Percentile    |
+| ---                                       | ---:          |
+| Data Analysis in SQL (PostgresSQL)        | 99th          |
+| Data Management in SQL (PostgresSQL)      | 95th          |
+
+| Assessment                                | Percentile    |
+| ---                                       | ---:          |
+| AI Fundamentals                           | 99th          |
+| Analytic Fundamentals                     | 97th          |
+| Data Management Theory                    | 97th          |
+| Data Storytelling                         | 95th          |
+| Data Visualization Theory                 | 99th          |
+| Exploratory Analysis Theory               | 95th          |
+| Statistical Experimentation Theory        | 99th          |
+| Understanding and Interpreting Data       | 98th          |
+
+#### Python
+
+| Assessment                                | Percentile    |
+| ---                                       | ---:          |
+| Data Manipulation with Python             | 95th          |
+| Data Visualization with Python            | 95th          |
+| Importing and Cleaning Data with Python   | 99th          |
+| Machine Learning Fundamentals in Python   | 99th          |
+| Programming for Data Engineering          | 99th          |
+| Python Programming			            | 98th          |
+| Statistics Fundamentals with Python       | 97th          |
+
+#### R
+
+| Assessment                                | Percentile    |
+| ---                                       | ---:          |
+| Data Manipulation with R                  | 98th          |
+| Data Visualization with R                 | 96th          |
+| Importing and Cleaning Data with R        | 96th          |
+| Machine Learning Fundamentals in R        | 98th          |
+| R Programming                             | 98th          |
+| Statistics Fundamentals with R            | 97th          |
+
+
+##### SQL
+
+| Assessment                                | Percentile    |
+| ---                                       | ---:          |
+| Data Analysis in SQL (PostgresSQL)        | 99th          |
+| Data Management in SQL (PostgresSQL)      | 95th          |
