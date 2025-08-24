@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Todd Takala's Portfolio
-
 Accomplished Lead Data Scientist with extensive experience in machine learning and reliability engineering. Proven history of leading high-impact data science projects from ideation to deployment, generating over $1.2 billion in business value. Specializes in steering data-driven strategies and managing complete project lifecycles, aligning with iterative principles to address complex business challenges and facilitate cost reduction. Excels in both technical leadership and mentoring, translating complex technical findings to non-technical stakeholders to ensure successful project outcomes.
 
 ## My Certifications
