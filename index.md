@@ -8,6 +8,9 @@ Professional with 25 years of experience solving tough capital equipment reliabi
 
 [**LinkedIn Profile: in/toddtakala**](https://www.linkedin.com/in/toddtakala)
 
+![](images/LI-Logo.png)
+
+
 ## Certifications
 
 | Name | Issued By |
