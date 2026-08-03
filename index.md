@@ -6,9 +6,9 @@ layout: default
 
 Professional with 25 years of experience solving tough capital equipment reliability, maintenance, and safety challenges. Excellent communication with the shop floor, engineering, supervision, and leadership. Comfortable across the software development lifecycle and MLOps, extracting insights from failure data, IoT, and ERP systems to build physics and engineering grounded data science and ML data products. Began on the shop floor as a heavy equipment mechanic and operator, then studied mechanical engineering at Arizona State, earning the trust of both executives and technicians.
 
-[**LinkedIn Profile: in/toddtakala**](https://www.linkedin.com/in/toddtakala)
+[![](images/LI-Logo.png)in/toddtakala](https://www.linkedin.com/in/toddtakala)
 
-![](images/LI-Logo.png)
+
 
 
 ## Certifications
@@ -45,22 +45,18 @@ Professional with 25 years of experience solving tough capital equipment reliabi
 
 ## Awards and Honors
 
-### 2x Champion: Amazon Machine Learning Competition
-#### Issued by Amazon Machine Learning University · September 2022
+### 2x Champion: Amazon Machine Learning Competition, Amazon Machine Learning University - September 2022
 
 2x winner of machine learning internal competitions at Amazon.com for Regression and Binary Classification data science competitions.
 
-### Invited Speaker: Data Science Applications for Fleet Reliability
-#### Issued by Caterpillar Inc. · May 2021
+### Invited Speaker: Data Science Applications for Fleet Reliability, Caterpillar Inc. - May 2021
 
 Shared machine learning methodology to predict diesel engine life in large off-highway trucks. Life was extended by 33%.
 
-### Invited Speaker: Truck Rebuild Program
-#### Issued by Caterpillar Inc. · April 2019
+### Invited Speaker: Truck Rebuild Program, Caterpillar Inc. - April 2019
 
 Spoke at Caterpillar large mining truck conference to discuss Empire-Cat’s truck rebuild program. Empire will completely rebuild a mining haul trucks at 60% of the cost of a new machine and operates with 2 to 4% more physical availability above trucks from the factory.
 
-### Invited Speaker: Product Problem Management
-#### Issued by Caterpillar Inc. · September 2015
+### Invited Speaker: Product Problem Management, Caterpillar Inc. - September 2015
 
 Discussed Empire's reliability engineering program which involves a focus on "find it" using RCA, critical component life analysis, inspections, telematics, and condition monitoring, followed by identifying key factors using machine learning, and then implementing "fix it" solutions through interim corrective actions and working with Caterpillar's FMEA process for permanent solutions.
