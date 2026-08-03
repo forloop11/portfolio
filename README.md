@@ -1,18 +1,28 @@
-# Todd Takala's Portfolio
-
-Accomplished Lead Data Scientist with extensive experience in machine learning and reliability engineering. Proven history of leading high-impact data science projects from ideation to deployment, generating over $1.2 billion in business value. Specializes in steering data-driven strategies and managing complete project lifecycles, aligning with iterative principles to address complex business challenges and facilitate cost reduction. Excels in both technical leadership and mentoring, translating complex technical findings to non-technical stakeholders to ensure successful project outcomes.
-
-## My Certifications
-
-* [Certifications](https://github.com/toddtakala/portfolio/tree/main/certifications) 
-* [Certificates of Completion](https://github.com/toddtakala/portfolio/tree/main/certs) 
-
 ## Profiles
 
 * [LinkedIn](https://www.linkedin.com/in/toddtakala)
 
+# Todd Takala's Portfolio
 
-## Tech Projects
+Professional with 25 years of experience solving tough capital equipment reliability, maintenance, and safety challenges. Excellent communication with the shop floor, engineering, supervision, and leadership. Comfortable across the software development lifecycle and MLOps, extracting insights from failure data, IoT, and ERP systems to build physics and engineering grounded data science and ML data products. Began on the shop floor as a heavy equipment mechanic and operator, then studied mechanical engineering at Arizona State, earning the trust of both executives and technicians.
+
+## Certifications
+
+* Six Sigma Black Belt
+* AWS Certified Machine Learning Specialty
+* IBM Agentic AI, RAG and Agentic AI
+* Docker Foundations
+* SAFe 6 Agilist
+* Caterpillar Applied Failure Analysis
+* University of Michigan Semiconductor Packaging Manufacturing
+* Stanford Probabilistic Graphical Models
+* Duke Applied Python Data Engineering
+
+
+
+
+
+## Projects
 
 * [A Visual History of Nobel Prize Winners](https://app.datacamp.com/workspace/w/ef91c9a9-4d2a-4b2e-864e-80e664591006)
 * [Cleaning Bank Marketing Campaign Data](https://app.datacamp.com/workspace/w/ad74b952-aebc-41e0-a56d-b4ea1ea411fe/)
@@ -49,6 +59,3 @@ Spoke at Caterpillar large mining truck conference to discuss Empire-Cat’s tru
 #### Issued by Caterpillar Inc. · Sep 2015
 
 Discussed Empire's reliability engineering program which involves a focus on "find it" using RCA, critical component life analysis, inspections, telematics, and condition monitoring, followed by identifying key factors using machine learning, and then implementing "fix it" solutions through interim corrective actions and working with Caterpillar's FMEA process for permanent solutions.
-
-stgresSQL)        | 99th          |
-| Data Management in SQL (PostgresSQL)      | 95th          |

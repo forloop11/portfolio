@@ -2,20 +2,33 @@
 layout: default
 ---
 
-Accomplished Lead Data Scientist with extensive experience in machine learning and reliability engineering. Proven history of leading high-impact data science projects from ideation to deployment, generating over $1.2 billion in business value. Specializes in steering data-driven strategies and managing complete project lifecycles, aligning with iterative principles to address complex business challenges and facilitate cost reduction. Excels in both technical leadership and mentoring, translating complex technical findings to non-technical stakeholders to ensure successful project outcomes.
-
-## My Certifications
-
-* [Certifications](https://github.com/toddtakala/portfolio/tree/main/certifications) 
-* [Certificates of Completion](https://github.com/toddtakala/portfolio/tree/main/certs) 
-
 ## Profiles
 
 * [LinkedIn](https://www.linkedin.com/in/toddtakala)
-* [DataCamp Profile](https://www.datacamp.com/portfolio/takala)
+
+# Todd Takala's Portfolio
+
+Professional with 25 years of experience solving tough capital equipment reliability, maintenance, and safety challenges. Excellent communication with the shop floor, engineering, supervision, and leadership. Comfortable across the software development lifecycle and MLOps, extracting insights from failure data, IoT, and ERP systems to build physics and engineering grounded data science and ML data products. Began on the shop floor as a heavy equipment mechanic and operator, then studied mechanical engineering at Arizona State, earning the trust of both executives and technicians.
+
+## Certifications
+
+| Name | Issued By |
+| ---  | ---       |
+| [Six Sigma Black Belt](https://www.coursera.org/account/accomplishments/specialization/3EOLHJ57IMRP) | Kennesaw State University |
+| [AWS Certified Machine Learning Specialty](https://www.credly.com/badges/65a3c7d5-1977-4c71-94d6-2d016ea1fe29) | Amazon Web Services |
+| [Advanced Deep Learning Specialist](https://www.credly.com/badges/c0442903-5f35-4a0f-8fa9-ec034ee3c092) | IBM |
+| [RAG and Agentic AI](https://www.coursera.org/account/accomplishments/professional-cert/1XWIEFNB5MPF) | IBM |
+| [Deep Learning with PyTorch, Keras and Tensorflow](https://www.coursera.org/account/accomplishments/professional-cert/O12BBM4K4R9L) | IBM |
+| [Building AI Agents and Agentic Workflows](https://www.coursera.org/account/accomplishments/specialization/ELTSTT0PO1GQ) | IBM |
+| [SAFe 6 Agilist](https://www.credly.com/badges/a4c2f671-694e-46f5-bdd1-a1025d0e3b00) | SAFe by Scaled Agile, Inc. |
+| Applied Failure Analysis | Caterpillar |
+| [Semiconductor Packaging](https://www.coursera.org/account/accomplishments/specialization/AAGBCPUY6CW2) | Arizona State University |
+| [Probabilistic Graphical Models](https://www.coursera.org/account/accomplishments/specialization/H2GYUKL51ESK) | Stanford |
+| [AI for Mechanical Engineers](https://www.coursera.org/account/accomplishments/specialization/5ADKOPJUDPHV) | University of Michigan |
+| [Applied Python Data Engineering](https://www.coursera.org/account/accomplishments/specialization/TTKGZKR2MW48) | Duke |
 
 
-## Tech Projects
+## Projects
 
 * [A Visual History of Nobel Prize Winners](https://app.datacamp.com/workspace/w/ef91c9a9-4d2a-4b2e-864e-80e664591006)
 * [Cleaning Bank Marketing Campaign Data](https://app.datacamp.com/workspace/w/ad74b952-aebc-41e0-a56d-b4ea1ea411fe/)
@@ -52,93 +65,3 @@ Spoke at Caterpillar large mining truck conference to discuss Empire-Cat’s tru
 #### Issued by Caterpillar Inc. · Sep 2015
 
 Discussed Empire's reliability engineering program which involves a focus on "find it" using RCA, critical component life analysis, inspections, telematics, and condition monitoring, followed by identifying key factors using machine learning, and then implementing "fix it" solutions through interim corrective actions and working with Caterpillar's FMEA process for permanent solutions.
-
-## DataCamp
-
-### Personal Profile
-
-* [DataCamp Portfolio](https://www.datacamp.com/portfolio/takala)
-* [Assessment Badges](assessment-badges.md)
-
-![](resources/datacamp/assessed-domains.png)
-
-![](resources/datacamp/profile.png)
-
-### Skill Assessments
-
-DataCamp provides assessments for a range of topics within data science, including Python, R, SQL, machine learning, statistics, and more.
-
-### Summary
-
-#### Python
-
-| Assessment                                | Percentile    |
-| ---                                       | ---:          |
-| Data Manipulation with Python             | 95th          |
-| Data Visualization with Python            | 95th          |
-| Importing and Cleaning Data with Python   | 99th          |
-| Machine Learning Fundamentals in Python   | 99th          |
-| Programming for Data Engineering          | 99th          |
-| Python Programming			            | 98th          |
-| Statistics Fundamentals with Python       | 97th          |
-
-#### R
-
-| Assessment                                | Percentile    |
-| ---                                       | ---:          |
-| Data Manipulation with R                  | 98th          |
-| Data Visualization with R                 | 96th          |
-| Importing and Cleaning Data with R        | 96th          |
-| Machine Learning Fundamentals in R        | 98th          |
-| R Programming                             | 98th          |
-| Statistics Fundamentals with R            | 97th          |
-
-
-##### SQL
-
-| Assessment                                | Percentile    |
-| ---                                       | ---:          |
-| Data Analysis in SQL (PostgresSQL)        | 99th          |
-| Data Management in SQL (PostgresSQL)      | 95th          |
-
-| Assessment                                | Percentile    |
-| ---                                       | ---:          |
-| AI Fundamentals                           | 99th          |
-| Analytic Fundamentals                     | 97th          |
-| Data Management Theory                    | 97th          |
-| Data Storytelling                         | 95th          |
-| Data Visualization Theory                 | 99th          |
-| Exploratory Analysis Theory               | 95th          |
-| Statistical Experimentation Theory        | 99th          |
-| Understanding and Interpreting Data       | 98th          |
-
-#### Python
-
-| Assessment                                | Percentile    |
-| ---                                       | ---:          |
-| Data Manipulation with Python             | 95th          |
-| Data Visualization with Python            | 95th          |
-| Importing and Cleaning Data with Python   | 99th          |
-| Machine Learning Fundamentals in Python   | 99th          |
-| Programming for Data Engineering          | 99th          |
-| Python Programming			            | 98th          |
-| Statistics Fundamentals with Python       | 97th          |
-
-#### R
-
-| Assessment                                | Percentile    |
-| ---                                       | ---:          |
-| Data Manipulation with R                  | 98th          |
-| Data Visualization with R                 | 96th          |
-| Importing and Cleaning Data with R        | 96th          |
-| Machine Learning Fundamentals in R        | 98th          |
-| R Programming                             | 98th          |
-| Statistics Fundamentals with R            | 97th          |
-
-
-##### SQL
-
-| Assessment                                | Percentile    |
-| ---                                       | ---:          |
-| Data Analysis in SQL (PostgresSQL)        | 99th          |
-| Data Management in SQL (PostgresSQL)      | 95th          |
