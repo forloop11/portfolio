@@ -10,7 +10,6 @@ Accomplished Lead Data Scientist with extensive experience in machine learning a
 ## Profiles
 
 * [LinkedIn](https://www.linkedin.com/in/toddtakala)
-* [DataCamp Profile](https://www.datacamp.com/portfolio/takala)
 
 
 ## Tech Projects
@@ -51,92 +50,5 @@ Spoke at Caterpillar large mining truck conference to discuss Empire-Cat’s tru
 
 Discussed Empire's reliability engineering program which involves a focus on "find it" using RCA, critical component life analysis, inspections, telematics, and condition monitoring, followed by identifying key factors using machine learning, and then implementing "fix it" solutions through interim corrective actions and working with Caterpillar's FMEA process for permanent solutions.
 
-## DataCamp
-
-### Personal Profile
-
-* [DataCamp Portfolio](https://www.datacamp.com/portfolio/takala)
-* [Assessment Badges](assessment-badges.md)
-
-![](resources/datacamp/assessed-domains.png)
-
-![](resources/datacamp/profile.png)
-
-### Skill Assessments
-
-DataCamp provides assessments for a range of topics within data science, including Python, R, SQL, machine learning, statistics, and more.
-
-### Summary
-
-#### Python
-
-| Assessment                                | Percentile    |
-| ---                                       | ---:          |
-| Data Manipulation with Python             | 95th          |
-| Data Visualization with Python            | 95th          |
-| Importing and Cleaning Data with Python   | 99th          |
-| Machine Learning Fundamentals in Python   | 99th          |
-| Programming for Data Engineering          | 99th          |
-| Python Programming			            | 98th          |
-| Statistics Fundamentals with Python       | 97th          |
-
-#### R
-
-| Assessment                                | Percentile    |
-| ---                                       | ---:          |
-| Data Manipulation with R                  | 98th          |
-| Data Visualization with R                 | 96th          |
-| Importing and Cleaning Data with R        | 96th          |
-| Machine Learning Fundamentals in R        | 98th          |
-| R Programming                             | 98th          |
-| Statistics Fundamentals with R            | 97th          |
-
-
-##### SQL
-
-| Assessment                                | Percentile    |
-| ---                                       | ---:          |
-| Data Analysis in SQL (PostgresSQL)        | 99th          |
-| Data Management in SQL (PostgresSQL)      | 95th          |
-
-| Assessment                                | Percentile    |
-| ---                                       | ---:          |
-| AI Fundamentals                           | 99th          |
-| Analytic Fundamentals                     | 97th          |
-| Data Management Theory                    | 97th          |
-| Data Storytelling                         | 95th          |
-| Data Visualization Theory                 | 99th          |
-| Exploratory Analysis Theory               | 95th          |
-| Statistical Experimentation Theory        | 99th          |
-| Understanding and Interpreting Data       | 98th          |
-
-#### Python
-
-| Assessment                                | Percentile    |
-| ---                                       | ---:          |
-| Data Manipulation with Python             | 95th          |
-| Data Visualization with Python            | 95th          |
-| Importing and Cleaning Data with Python   | 99th          |
-| Machine Learning Fundamentals in Python   | 99th          |
-| Programming for Data Engineering          | 99th          |
-| Python Programming			            | 98th          |
-| Statistics Fundamentals with Python       | 97th          |
-
-#### R
-
-| Assessment                                | Percentile    |
-| ---                                       | ---:          |
-| Data Manipulation with R                  | 98th          |
-| Data Visualization with R                 | 96th          |
-| Importing and Cleaning Data with R        | 96th          |
-| Machine Learning Fundamentals in R        | 98th          |
-| R Programming                             | 98th          |
-| Statistics Fundamentals with R            | 97th          |
-
-
-##### SQL
-
-| Assessment                                | Percentile    |
-| ---                                       | ---:          |
-| Data Analysis in SQL (PostgresSQL)        | 99th          |
+stgresSQL)        | 99th          |
 | Data Management in SQL (PostgresSQL)      | 95th          |
