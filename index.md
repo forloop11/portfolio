@@ -14,24 +14,33 @@ Professional with 25 years of experience solving tough capital equipment reliabi
 
 ## Awards and Honors
 
-### CEO Award (Labor Time Machine Learning), Caterpillar Inc. - May 2024
+### CEO Award (Labor Time Machine Learning)
+
+_Jim Umpleby, Caterpillar Inc. - May 2024_
 
 Developed AI-driven solutions that reduced labor costs and earned the CEO award for exceptional personal contributions and business impact.
 
+### 2x Champion: Amazon Machine Learning Competition
 
-### 2x Champion: Amazon Machine Learning Competition, Amazon Machine Learning University - September 2022
+_Amazon Machine Learning University - September 2022_
 
 2x winner of machine learning internal competitions at Amazon.com for Regression and Binary Classification data science competitions.
 
-### Invited Speaker: Data Science Applications for Fleet Reliability, Caterpillar Inc. - May 2021
+### Invited Speaker: Data Science Applications for Fleet Reliability
 
-Shared machine learning methodology to predict diesel engine life in large off-highway trucks. Life was extended by 33%.
+_Caterpillar Inc. - May 2021_
 
-### Invited Speaker: Truck Rebuild Program, Caterpillar Inc. - April 2019
+Shared diesel engine digital twin for large off-highway trucks. Life was extended by 33%, which saved our client $62M in the first 90 days.
+
+### Invited Speaker: Truck Rebuild Program
+
+_Caterpillar Inc. - April 2019_
 
 Spoke at Caterpillar large mining truck conference to discuss Empire-Cat’s truck rebuild program. Empire will completely rebuild a mining haul trucks at 60% of the cost of a new machine and operates with 2 to 4% more physical availability above trucks from the factory.
 
-### Invited Speaker: Product Problem Management, Caterpillar Inc. - September 2015
+### Invited Speaker: Product Problem Management
+
+_Caterpillar Inc. - September 2015_
 
 Discussed Empire's reliability engineering program which involves a focus on "find it" using RCA, critical component life analysis, inspections, telematics, and condition monitoring, followed by identifying key factors using machine learning, and then implementing "fix it" solutions through interim corrective actions and working with Caterpillar's FMEA process for permanent solutions.
 
