@@ -35,9 +35,6 @@ Spoke at Caterpillar large mining truck conference to discuss Empire-Cat’s tru
 
 Discussed Empire's reliability engineering program which involves a focus on "find it" using RCA, critical component life analysis, inspections, telematics, and condition monitoring, followed by identifying key factors using machine learning, and then implementing "fix it" solutions through interim corrective actions and working with Caterpillar's FMEA process for permanent solutions.
 
-
-
-
 ## Certifications
 
 | Name | Issued By |
@@ -57,8 +54,6 @@ Discussed Empire's reliability engineering program which involves a focus on "fi
 | [Building AI Agents and Agentic Workflows](https://www.coursera.org/account/accomplishments/specialization/ELTSTT0PO1GQ) | IBM |
 | [The Science of Happiness at Work](https://credentials.edx.org/credentials/139917b546984a14980b2d10f9684455/) | University of California, Berkeley |
 
-
-
 ## Projects
 
 * [A Visual History of Nobel Prize Winners](https://app.datacamp.com/workspace/w/ef91c9a9-4d2a-4b2e-864e-80e664591006)
@@ -71,5 +66,3 @@ Discussed Empire's reliability engineering program which involves a focus on "fi
 * [Predicting Credit Card Approvals](https://app.datacamp.com/workspace/w/3cdac102-7205-4f80-bca6-914d31f21f23)
 * [The Android App Market on Google Play](https://app.datacamp.com/workspace/w/1124fc03-254b-4953-9a0f-edb01baeaa10)
 * [The GitHub History of the Scala Language](https://app.datacamp.com/workspace/w/1e012d05-2a5d-4e43-b098-d8980289d9a5)
-
-
