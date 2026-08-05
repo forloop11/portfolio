@@ -10,7 +10,7 @@ layout: default
 
 [in/toddtakala](https://www.linkedin.com/in/toddtakala)
 
-Professional with 25 years of experience solving tough capital equipment reliability, maintenance, and safety challenges. Excellent communication with the shop floor, engineering, supervision, and leadership. Comfortable across the software development lifecycle and MLOps, extracting insights from failure data, IoT, and ERP systems to build physics and engineering grounded data science and ML data products. Began on the shop floor as a heavy equipment mechanic and operator, then studied mechanical engineering at Arizona State, earning the trust of both executives and technicians.
+Professional with 25 years in capital equipment reliability and engineering. Started on the shop floor as a mechanic and welder, later earned mechanical engineering degree. Expert in ML, predictive maintenance, and reliability engineering—trusted by both technicians and executives. Proficient across software development lifecycle, MLOps, and building data-driven products from failure data, IoT, and ERP systems.
 
 ## Awards and Honors
 
