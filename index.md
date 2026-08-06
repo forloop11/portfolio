@@ -53,6 +53,7 @@ Discussed Empire's reliability engineering program which involves a focus on "fi
 | [SAFe 6 Agilist](https://www.credly.com/badges/a4c2f671-694e-46f5-bdd1-a1025d0e3b00) | SAFe by Scaled Agile, Inc. |
 | Applied Failure Analysis | Caterpillar Inc. |
 | Certified Technical Communicator | Komatsu North America |
+| [Fundamentals of Flight Mechanics](https://www.coursera.org/account/accomplishments/specialization/VYE4OV5XDPW8) | ISAE - Supaero |
 | [Semiconductor Packaging](https://www.coursera.org/account/accomplishments/specialization/AAGBCPUY6CW2) | Arizona State University |
 | [Probabilistic Graphical Models](https://www.coursera.org/account/accomplishments/specialization/H2GYUKL51ESK) | Stanford University |
 | [AI for Mechanical Engineers](https://www.coursera.org/account/accomplishments/specialization/5ADKOPJUDPHV) | University of Michigan |
