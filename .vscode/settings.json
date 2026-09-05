@@ -1,0 +1,9 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "bundle": true,
+        "/^ls -la Gemfile\\.lock 2>/dev/null \\|\\| true; ruby -r rubygems -e 'puts Gem\\.user_dir'$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
