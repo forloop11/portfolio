@@ -1,7 +1,56 @@
-title: Todd Takala's Portfolio
-description: A place to share some of my engineering and data science work.
+title: Todd Takala
+tagline: Senior Data Scientist · Reliability & Manufacturing ML
+description: >-
+  Portfolio of Todd Takala, a data scientist with 25 years in capital equipment
+  reliability and engineering: machine learning, predictive maintenance, and
+  reliability engineering work, projects, awards, and certifications.
+url: https://portfolio.derkooh.com
+lang: en-US
+author:
+  name: Todd Takala
+social:
+  name: Todd Takala
+  links:
+    - https://www.linkedin.com/in/toddtakala
+    - https://github.com/forloop11
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
+
+# Header navigation. Entries starting with "/" are site-relative.
+nav:
+  - title: Work
+    url: /#selected-work
+  - title: Projects
+    url: /#featured-projects
+  - title: Experience
+    url: /#experience
+  - title: Awards
+    url: /#awards-and-honors
+  - title: Certifications
+    url: /#certifications
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/toddtakala
+  - title: GitHub
+    url: https://github.com/forloop11
+
+# Files kept in the repository but left out of the published site.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - jekyll-theme-cayman.gemspec
+  - LICENSE
+  - vendor
+  - node_modules
+  - another-page.md
+  - docs
+  - script
+  - images/avatar.xcf
+  - images/LI-Logo.xcf
+  - accomplishments/src
+  - accomplishments/MSHA
+  - accomplishments/depricated
+  - "accomplishments/Stakeholder Overview Presentation (1).pdf"
+  - "accomplishments/Stakeholder Overview Presentation (1).pptx"

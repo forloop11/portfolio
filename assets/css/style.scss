@@ -2,3 +2,129 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+// Site-specific additions to the Cayman theme.
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+
+  .btn {
+    display: inline-block;
+    width: auto;
+    margin: 0;
+    padding: 0.5rem 0.9rem;
+    font-size: 0.95rem;
+
+    + .btn {
+      margin: 0;
+    }
+  }
+}
+
+.main-content {
+  h2 {
+    padding-bottom: 0.3rem;
+    border-bottom: solid 1px $hr-border-color;
+    scroll-margin-top: 1rem;
+  }
+
+  .intro {
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+
+    > p:first-child {
+      flex: 0 0 9rem;
+      margin: 0;
+    }
+
+    .avatar {
+      display: block;
+      width: 9rem;
+      border-radius: 0.3rem;
+    }
+
+    @media screen and (max-width: #{$medium-breakpoint}) {
+      flex-direction: column;
+    }
+  }
+
+  .case-study {
+    padding: 0 0 0 1rem;
+    margin-bottom: 2rem;
+    border-left: 0.3rem solid $border-color;
+
+  }
+
+  .case-study {
+    h3 {
+      margin-bottom: 0.25rem;
+    }
+
+    .meta {
+      margin-top: 0;
+      font-size: 0.95rem;
+      color: $blockquote-text-color;
+    }
+  }
+
+  .timeline td:first-child {
+    white-space: nowrap;
+
+    @media screen and (max-width: #{$medium-breakpoint}) {
+      white-space: normal;
+    }
+  }
+
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));
+    gap: 1.5rem;
+  }
+
+  .card {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    border: solid 1px $border-color;
+    border-radius: 0.3rem;
+
+    img {
+      display: block;
+      width: 100%;
+      aspect-ratio: 5 / 3;
+      object-fit: cover;
+      object-position: top left;
+      border-radius: 0.2rem;
+    }
+
+    h3 {
+      margin-top: 1rem;
+      margin-bottom: 0.5rem;
+    }
+
+    p {
+      margin-top: 0;
+      font-size: 1rem;
+    }
+
+    > :last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  .badges {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+    gap: 0.75rem;
+
+    img {
+      display: block;
+      border: solid 1px $border-color;
+      border-radius: 0.3rem;
+    }
+  }
+}
