@@ -142,9 +142,9 @@ body {
     img {
       display: block;
       width: 100%;
-      aspect-ratio: 5 / 3;
-      object-fit: cover;
-      object-position: top left;
+      aspect-ratio: 4 / 3;
+      object-fit: contain;
+      background-color: $page-bg-color;
       border-radius: 0.2rem;
     }
 

@@ -87,7 +87,7 @@ Caterpillar Inc. · Lead Data Scientist
 
 <div class="card" markdown="1">
 
-[![Resume Workshop desktop editor showing the resume block view beside the generated PDF](images/projects/resume-workshop.png)](https://github.com/forloop11/resume-workshop)
+[![Animated demo of the Resume Workshop desktop editor: editing a JSON Resume in cards with the generated PDF beside it](assets/demo.gif)](https://github.com/forloop11/resume-workshop)
 
 ### [Resume Workshop](https://github.com/forloop11/resume-workshop)
 
@@ -97,7 +97,7 @@ A source-driven LaTeX resume builder. The resume's content lives in a single [JS
 
 <div class="card" markdown="1">
 
-[![Markdown Cornell Notes editor showing Markdown notes beside the rendered Cornell-style PDF](images/projects/markdown-cornell-notes.png)](https://github.com/forloop11/markdown-cornell-notes)
+[![Animated tutorial of the Markdown Cornell Notes editor: writing Markdown notes and rendering the Cornell-style PDF beside them](assets/tutorial.gif)](https://github.com/forloop11/markdown-cornell-notes)
 
 ### [Markdown Cornell Notes](https://github.com/forloop11/markdown-cornell-notes)
 
